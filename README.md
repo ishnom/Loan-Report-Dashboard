@@ -24,9 +24,3 @@ The project includes loan data with the following information:
 - Loan grades and purposes
 - Loan status and quality classifications
 
-## Project Files
-
-- `Loan_Analytics_Dashboard.pbix` - Power BI dashboard file
-- `Data/financial_loan.csv` - Source loan data
-- `BUSINESS_INSIGHTS.md` - Detailed business analysis and insights
-- `DAX_QUERIES_DOCUMENTATION.md` - Technical DAX formulas and patterns
